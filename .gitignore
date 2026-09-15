@@ -1,0 +1,17 @@
+# Dados reais da loja
+data/raw/*
+data/processed/*
+
+# Ambiente virtual
+.venv/
+
+# Variáveis de ambiente
+.env
+
+# Arquivos Python
+__pycache__/
+*.pyc
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
