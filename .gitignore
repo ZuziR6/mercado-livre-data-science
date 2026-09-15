@@ -1,6 +1,6 @@
 # Dados reais da loja
-data/raw/*
-data/processed/*
+data/raw/*.csv
+data/processed/*.csv
 
 # Ambiente virtual
 .venv/
@@ -8,10 +8,10 @@ data/processed/*
 # Variáveis de ambiente
 .env
 
-# Arquivos Python
+# Python
 __pycache__/
 *.pyc
 
-# Arquivos do sistema
+# Sistema
 .DS_Store
 Thumbs.db
